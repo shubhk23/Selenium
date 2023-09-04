@@ -7,13 +7,13 @@
   <artifactId>org.magnitia.TDD</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <dependencies>
-  	<!--  for browser drivers -->
+  	<!-- for browser drivers -->
     <dependency>
     	<groupId>io.github.bonigarcia</groupId>
     	<artifactId>webdrivermanager</artifactId>
     	<version>5.0.3</version>
 	</dependency>
-	<!--  for web site automation -->
+	<!-- for web site automation -->
 	<dependency>
     	<groupId>org.seleniumhq.selenium</groupId>
     	<artifactId>selenium-java</artifactId>
