@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="MySuite" duration-ms="35" started-at="2022-07-10T13:59:05 IST" finished-at="2022-07-10T13:59:05 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="35" started-at="2022-07-10T13:59:05 IST" finished-at="2022-07-10T13:59:05 IST">
+      <class name="practicetestng.DummyTest3">
+        <test-method status="PASS" signature="method1(org.testng.ITestContext)[pri:1, instance:practicetestng.DummyTest3@27d415d9]" name="method1" duration-ms="6" started-at="2022-07-10T13:59:05 IST" finished-at="2022-07-10T13:59:05 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@55040f2f]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method1 -->
+      </class> <!-- practicetestng.DummyTest3 -->
+      <class name="practicetestng.DummyTest4">
+        <test-method status="PASS" signature="method2(org.testng.ITestContext)[pri:1, instance:practicetestng.DummyTest4@fe18270]" name="method2" duration-ms="0" started-at="2022-07-10T13:59:05 IST" finished-at="2022-07-10T13:59:05 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@55040f2f]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method2 -->
+      </class> <!-- practicetestng.DummyTest4 -->
+    </test> <!-- Test -->
+  </suite> <!-- MySuite -->
+</testng-results>
